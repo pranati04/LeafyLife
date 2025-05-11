@@ -97,7 +97,7 @@ leafylife/
 Notes
 - Use Razorpay test keys only — not suitable for live payments 
 - Always sanitize user inputs in real-world deployments
-- Download images from link: 
+- Unzip images folder and place as "images" folder in "leafylife" folder
  
 Contact
 Email: pranati.dubey2004@gmail.com
